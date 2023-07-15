@@ -1,6 +1,6 @@
 ### Hola!
 
-Sitio web: https://github.com/brisacruz22/brisacruz22
+Sitio web: https://brisacruz22.github.io
 
 <!--
 **brisacruz22/brisacruz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
